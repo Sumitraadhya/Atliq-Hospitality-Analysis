@@ -33,17 +33,17 @@ https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/Data%20Mode
 
 https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/metrics%20list.xlsx
 
--RevPar=Revenue per Available Room
--DSRN=Daily sellable room nights
--SRN=sellable Room nights
--Occupancy %=% Booked room over DSRN
--Revenue=Total Revenue Generated
--ADR=Average Daily rate
--URN=Utilized room nights
--BRN=Booked room Nights
--Realization=URN/BRN
--BRN=URN+ no shows+ cancellation bookings
--Weekends=Friday & Saturday
+- RevPar=Revenue per Available Room
+- DSRN=Daily sellable room nights
+- SRN=sellable Room nights
+- Occupancy % = % Booked room over DSRN
+- Revenue=Total Revenue Generated
+- ADR=Average Daily rate
+- URN=Utilized room nights
+- BRN=Booked room Nights
+- Realization=URN/BRN
+- BRN=URN+ no shows+ cancellation bookings
+- Weekends=Friday & Saturday
 
 ## Overall Analysis View
 
