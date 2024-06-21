@@ -21,12 +21,17 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 ## Provided Mock-up Dashboard
 
-https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/mock%20up%20dashboard_atliq.png
+![Mock Up Dashboard.gif](https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/mock%20up%20dashboard_atliq.png)
 
 
 ## Data Model
 
-https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/Data%20Model.png
+![Data Model.gif](https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/Data%20Model.png)
+
+
+## Overall Report
+
+![Overall Report.gif](https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/Dashboard.png)
 
 
 ## Business related terms
@@ -47,7 +52,8 @@ https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/metrics%20l
 
 ## Overall Analysis View
 
-https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/Dashboard.png
+![Overall Report.gif](https://github.com/Sumitraadhya/Atliq-Hospitality-Analysis/blob/main/Dashboard.png)
+
 
 
 you can find the full report file here : [Report](https://app.powerbi.com/groups/me/reports/461950aa-6e4a-4a16-a76f-838145ff8ac8/6069fd5166468130bd4a?experience=power-bi)
